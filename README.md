@@ -32,3 +32,4 @@ With many countries shopping in supermarkets and mall is the biggest dilema that
 
 # Linking to live site on Github.pages
  In the Github repository, click on the settings, then scroll down to Github pages. Under source section choose main and save. then the page refreshes, scroll back to Github pages to see the generated site link.
+    /*https://github.com/collinsmokaya28/phase-1-project/settings/pages#:~:text=https%3A//collinsmokaya28.github.io/phase%2D1%2Dproject/ */
