@@ -29,3 +29,6 @@ With many countries shopping in supermarkets and mall is the biggest dilema that
 8. Ensure the page doesnt have any redirecting when reloading.
 9. Ensure also the page prevents default loading.
 10. Ensure the page does not persist.
+
+# Linking to live site on Github.pages
+ In the Github repository, click on the settings, then scroll down to Github pages. Under source section choose main and save. then the page refreshes, scroll back to Github pages to see the generated site link.
