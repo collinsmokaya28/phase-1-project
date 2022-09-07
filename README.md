@@ -18,10 +18,10 @@ With many countries shopping in supermarkets and mall is the biggest dilema that
     "/* But according to a new survey by Bankrate.com, 72% of respondents are still taking trips to the grocery store amid the pandemic, rather than ordering in and using delivery services.*/" This is because delivery services reported more than 83% issues, thus still people will prefer to visit supemarkets by themselves.
 
 # User Stories
-. As a user am able to get online and see through the various supermarkets and choose the preferred
-. As a user am able to choose a given supermarket based on my needs like the location 
-. As a user am able to leave a comment concern the services i get in a given supermarket.
-. As a user am able to rate a given supermarket based on its services and the given number of tellers.
+1. As a user am able to get online and see through the various supermarkets and choose the preferred
+2. As a user am able to choose a given supermarket based on my needs like the location 
+3. As a user am able to leave a comment concern the services i get in a given supermarket.
+4. As a user am able to rate a given supermarket based on its services and the given number of tellers.
 
 
 # Project Setup  Instractions
