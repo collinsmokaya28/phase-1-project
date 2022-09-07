@@ -1,0 +1,47 @@
+{
+    "supermarkets": [
+         {
+        "id": 1,
+        "name": "Naivas",
+        "ImageUrl": "https://www.businessdailyafrica.com/resource/image/3712364/landscape_ratio16x9/1160/652/68d47c44666c49db6668c12f57b620c1/ne/naivas.jpg",
+        "description": "Naivas is the leading Shopping retailer in Kenya for over 30 years",
+        "tellers": "8",
+        "loction": "CBD"
+         },
+        {
+        "id": 2,
+        "name": "Carrefour",
+        "ImageUrl": "https://nnmedia.nation.africa/uploads/2021/04/Carrefour.jpg",
+        "description":"Carrefour Kenya is part of a franchise that is found in over 30 countries",
+        "tellers":"12",
+        "loction":"Ngong road"
+
+         },
+        {
+        "id": 3,
+        "name":"Quickmart",
+        "ImageUrl":"https://uzalendonews.co.ke/wp-content/uploads/2021/05/EKiksD7XsAECnZ0.jpg?x54227",
+        "description":"Quickmart is another store that has been growing steadily over the years and is one of the largest supermarkets in Kenya",
+        "tellers":"7",
+        "loction":"Mombasa road"
+
+         },
+        {
+        "id": 4,
+        "name":"Cleanshelf",
+        "ImageUrl":"https://victormatara.com/wp-content/uploads/2022/06/List-Of-Cleanshelf-Supermarket-Branches-In-Kenya.jpg",
+        "description":"Cleanshelf Supermarket has had a steady growth path over the years and is one of the biggest Supermarket in Kenya.",
+        "tellers":"10",
+        "loction":"Waiyaki way"
+        },
+        {
+        "id": 5,
+        "name":"Eastmart",
+        "ImageUrl":"https://lh3.googleusercontent.com/p/AF1QipPhqsdNM_EKS3NH9aD4BMCCgc9HD6nWFHwFtF9a=s1600-w400",
+        "description":"Eastmatt Supermarket is one of the consistent stores around and was formed in 1990 as Eastleigh Mattresses",
+        "tellers":"6",
+        "loction":"Thika road"
+        }
+
+    ]
+}
