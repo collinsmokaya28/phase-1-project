@@ -16,3 +16,16 @@ The location all matters alot when making a decision on which supermarket to sho
 With many countries shopping in supermarkets and mall is the biggest dilema that many people do no want to deal with since people prefer to just spend the least time doing shopping. Now that this is a global problem, this application will be a stress reliever to many shoppers and make it even more enjoyable.
 
     "/* But according to a new survey by Bankrate.com, 72% of respondents are still taking trips to the grocery store amid the pandemic, rather than ordering in and using delivery services.*/" This is because delivery services reported more than 83% issues, thus still people will prefer to visit supemarkets by themselves.
+
+
+# Project Setup  Instractions
+1. create the web page using the html and style it using css.
+2. create the javaScript file 
+3. Call the javascript through html under the head tag.
+4. In the script. js file, create a function called dispalySupermarkets to contain the card with a div that has a class name supermarket-sheet.
+5. Fetch the supermarket data using the asynchronous and use JSON format.
+6. Create the getData ,addComment and giveRate functions.
+7 Add the DOMContentLoaded ,click and Submit eventListens.
+8. Ensure the page doesnt have any redirecting when reloading.
+9. Ensure also the page prevents default loading.
+10. Ensure the page does not persist.
