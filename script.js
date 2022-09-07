@@ -39,7 +39,7 @@ function displaySupermarket (supermarket) {
 
             giveRate()
 
-
+            
 }
 
 function getData () {
